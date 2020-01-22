@@ -6,7 +6,7 @@
     width: 638px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(http://i.imgur.com/03hwybn.png);
+    background: url(https://i.imgur.com/MeTnPgD.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
