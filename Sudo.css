@@ -1,0 +1,34 @@
+/* The Base controller, over which button presses are rendered */
+.controller.ds4 {
+    background: url(https://i.imgur.com/87CuZyZ.png);
+}
+
+/* Triggers */
+.ds4 .trigger {
+    background: url(https://gamepadviewer.com/ps4-assets/triggers.svgz);
+}
+
+/* Bumpers */
+.ds4 .bumper {
+    background: url(https://gamepadviewer.com/ps4-assets/bumper.svgz) no-repeat;
+}
+
+/* Share and Start */
+.ds4 .back, .ds4 .start {
+    background: url(https://gamepadviewer.com/ps4-assets/start.svgz);
+}
+
+/*The ABXY (or rather XOTriSquare)*/
+.ds4 .button {
+    background: url(https://gamepadviewer.com/ps4-assets/face.svgz);
+}
+
+/* Joysticks */
+.ds4 .stick {
+    background: url(https://gamepadviewer.com/ps4-assets/sticks.svgz);
+}
+
+/* Dpad */
+.ds4 .face {
+    background: url(https://gamepadviewer.com/ps4-assets/dpad.svgz);
+}
