@@ -1,7 +1,7 @@
 /*BEGIN Xbox 360 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 .controller.custom {
-    background: url(https://i.imgur.com/z13uJ6A.png); 
+    background: url(https://i.imgur.com/JN2vDJe.png); 
     height: 539px;
     width: 638px;
 }
@@ -21,7 +21,7 @@
 .custom .trigger{/* These are the actual triggers themselves */
     width: 60px;
     height: 83px;
-    background: url(https://i.imgur.com/Tpl1uVI.png);
+    background: url(https://i.imgur.com/x7EXrsB.png);
     opacity: 0;
 }
 /* The left and right classes below are used to position the triggers
@@ -41,7 +41,7 @@ placement */
 .custom .bumper{
     width: 111px;
     height: 41px;
-    background: url(https://i.imgur.com/9X9xIZT.png);
+    background: url(https://i.imgur.com/QqZkMUd.png);
     opacity: 0;
 }
 .custom .bumpers{
@@ -105,7 +105,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start{
-    background: url(https://i.imgur.com/JMruo3X.png);
+    background: url(https://i.imgur.com/omUs2AN.png);
     width: 81px;
     height: 32px;
 }
@@ -143,7 +143,7 @@ width: 0px;
 	position: absolute;
     width: 47px;
     height:46px;
-    background: url(https://i.imgur.com/2WbC52I.png);
+    background: url(https://i.imgur.com/eXH45FP.png);
 }
 .custom .a.pressed{
     background-position: 47px 0;
@@ -177,7 +177,7 @@ the CSS inline. */
 }
 .custom .stick{
     position: absolute;
-    background: url(https://i.imgur.com/yOzgLvZ.png);
+    background: url(https://i.imgur.com/j0TDApR.png);
     height:82px;
     width: 91px;
 }
@@ -206,7 +206,7 @@ width: 83px;
     left: 74px;
 }
 .custom .face{
-    background: url(https://i.imgur.com/MqLq3Ig.png);
+    background: url(https://i.imgur.com/ycKHZDq.png);
     position: absolute;
 }
 .custom .face.pressed.up{
