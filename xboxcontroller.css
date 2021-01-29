@@ -1,13 +1,6 @@
-/*BEGIN Xbox One Controller Styling*/
-.controller.custom{
-    background: url(https://i.imgur.com/sKBiBBV.png); */
-    height: 630px;
-    width: 750px;
-    margin-left: -375px;
-    margin-top: -285px;
 }
 .custom.white{
-    background: url(https://i.imgur.com/sKBiBBV.png);
+    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
 }
 .custom.disconnected {
     
